@@ -1,0 +1,85 @@
+BMP280 detected!
+Temperature = 31.09 C
+Pressure = 995.54 hPa
+Altitude = 148.49 m
+
+Temperature = 31.42 C
+Pressure = 995.58 hPa
+Altitude = 148.17 m
+
+Temperature = 31.44 C
+Pressure = 995.60 hPa
+Altitude = 147.96 m
+
+Temperature = 31.43 C
+Pressure = 995.66 hPa
+Altitude = 147.52 m
+
+Temperature = 31.43 C
+Pressure = 995.64 hPa
+Altitude = 147.66 m
+
+Temperature = 31.44 C
+Pressure = 995.67 hPa
+Altitude = 147.41 m
+
+Temperature = 31.44 C
+Pressure = 995.71 hPa
+Altitude = 147.08 m
+
+Temperature = 31.43 C
+Pressure = 995.72 hPa
+Altitude = 147.01 m
+
+Temperature = 31.40 C
+Pressure = 995.77 hPa
+Altitude = 146.53 m
+
+Temperature = 31.40 C
+Pressure = 995.76 hPa
+Altitude = 146.65 m
+
+Temperature = 31.41 C
+Pressure = 995.75 hPa
+Altitude = 146.75 m
+
+Temperature = 31.39 C
+Pressure = 995.78 hPa
+Altitude = 146.49 m
+
+Temperature = 31.39 C
+Pressure = 995.82 hPa
+Altitude = 146.16 m
+
+Temperature = 31.39 C
+Pressure = 995.83 hPa
+Altitude = 146.05 m
+
+Temperature = 31.38 C
+Pressure = 995.87 hPa
+Altitude = 145.69 m
+
+Temperature = 31.37 C
+Pressure = 995.92 hPa
+Altitude = 145.30 m
+
+Temperature = 31.37 C
+Pressure = 995.90 hPa
+Altitude = 145.47 m
+
+Temperature = 31.36 C
+Pressure = 995.95 hPa
+Altitude = 145.03 m
+
+Temperature = 31.35 C
+Pressure = 995.98 hPa
+Altitude = 144.83 m
+
+Temperature = 31.36 C
+Pressure = 995.99 hPa
+Altitude = 144.74 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
