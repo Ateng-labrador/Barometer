@@ -1,0 +1,465 @@
+BMP280 detected!
+Temperature = 29.64 C
+Pressure = 995.68 hPa
+Altitude = 147.36 m
+
+Temperature = 29.98 C
+Pressure = 995.71 hPa
+Altitude = 147.05 m
+
+Temperature = 30.01 C
+Pressure = 995.72 hPa
+Altitude = 146.97 m
+
+Temperature = 30.03 C
+Pressure = 995.73 hPa
+Altitude = 146.91 m
+
+Temperature = 30.04 C
+Pressure = 995.71 hPa
+Altitude = 147.03 m
+
+Temperature = 30.04 C
+Pressure = 995.72 hPa
+Altitude = 146.99 m
+
+Temperature = 30.05 C
+Pressure = 995.71 hPa
+Altitude = 147.07 m
+
+Temperature = 30.05 C
+Pressure = 995.71 hPa
+Altitude = 147.10 m
+
+Temperature = 30.06 C
+Pressure = 995.70 hPa
+Altitude = 147.25 m
+
+Temperature = 30.07 C
+Pressure = 995.69 hPa
+Altitude = 147.26 m
+
+Temperature = 30.07 C
+Pressure = 995.70 hPa
+Altitude = 147.13 m
+
+Temperature = 30.08 C
+Pressure = 995.67 hPa
+Altitude = 147.42 m
+
+Temperature = 30.09 C
+Pressure = 995.62 hPa
+Altitude = 147.83 m
+
+Temperature = 30.10 C
+Pressure = 995.64 hPa
+Altitude = 147.67 m
+
+Temperature = 30.10 C
+Pressure = 995.65 hPa
+Altitude = 147.55 m
+
+Temperature = 30.11 C
+Pressure = 995.66 hPa
+Altitude = 147.51 m
+
+Temperature = 30.12 C
+Pressure = 995.65 hPa
+Altitude = 147.56 m
+
+Temperature = 30.13 C
+Pressure = 995.71 hPa
+Altitude = 147.10 m
+
+Temperature = 30.14 C
+Pressure = 995.74 hPa
+Altitude = 146.79 m
+
+Temperature = 30.15 C
+Pressure = 995.74 hPa
+Altitude = 146.78 m
+
+Temperature = 30.16 C
+Pressure = 995.73 hPa
+Altitude = 146.87 m
+
+Temperature = 30.17 C
+Pressure = 995.73 hPa
+Altitude = 146.93 m
+
+Temperature = 30.18 C
+Pressure = 995.72 hPa
+Altitude = 146.96 m
+
+Temperature = 30.18 C
+Pressure = 995.72 hPa
+Altitude = 147.00 m
+
+Temperature = 30.19 C
+Pressure = 995.75 hPa
+Altitude = 146.72 m
+
+Temperature = 30.20 C
+Pressure = 995.72 hPa
+Altitude = 147.02 m
+
+Temperature = 30.20 C
+Pressure = 995.69 hPa
+Altitude = 147.23 m
+
+Temperature = 30.20 C
+Pressure = 995.72 hPa
+Altitude = 147.02 m
+
+Temperature = 30.21 C
+Pressure = 995.74 hPa
+Altitude = 146.84 m
+
+Temperature = 30.21 C
+Pressure = 995.74 hPa
+Altitude = 146.79 m
+
+Temperature = 30.22 C
+Pressure = 995.79 hPa
+Altitude = 146.40 m
+
+Temperature = 30.22 C
+Pressure = 995.74 hPa
+Altitude = 146.78 m
+
+Temperature = 30.23 C
+Pressure = 995.73 hPa
+Altitude = 146.90 m
+
+Temperature = 30.23 C
+Pressure = 995.71 hPa
+Altitude = 147.04 m
+
+Temperature = 30.24 C
+Pressure = 995.72 hPa
+Altitude = 146.97 m
+
+Temperature = 30.24 C
+Pressure = 995.70 hPa
+Altitude = 147.13 m
+
+Temperature = 30.25 C
+Pressure = 995.73 hPa
+Altitude = 146.92 m
+
+Temperature = 30.25 C
+Pressure = 995.70 hPa
+Altitude = 147.13 m
+
+Temperature = 30.26 C
+Pressure = 995.72 hPa
+Altitude = 146.96 m
+
+Temperature = 30.26 C
+Pressure = 995.72 hPa
+Altitude = 147.02 m
+
+Temperature = 30.27 C
+Pressure = 995.72 hPa
+Altitude = 147.00 m
+
+Temperature = 30.27 C
+Pressure = 995.73 hPa
+Altitude = 146.87 m
+
+Temperature = 30.28 C
+Pressure = 995.71 hPa
+Altitude = 147.04 m
+
+Temperature = 30.30 C
+Pressure = 995.75 hPa
+Altitude = 146.76 m
+
+Temperature = 30.30 C
+Pressure = 995.72 hPa
+Altitude = 146.99 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
+Temperature = 24.56 C
+Pressure = 760.13 hPa
+Altitude = 2359.66 m
+
